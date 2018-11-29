@@ -1,10 +1,9 @@
+#1. Escreva uma função em Python que some todos os números ímpares de 1 até um dado N, inclusive. O número N deve ser obtido do usuário. Ao final, escreva o valor do resultado desta soma.
 
 print('Nessa atividade vamos somar todos os números inteiros ímpares de 1 ate N')
 
 n=int(input("Insira o valor de N:"))
 print('Agora vamos somar todos os numeros ímpares de 1 até', n)
-
-
 
 resultado = 0
 contador = 0
