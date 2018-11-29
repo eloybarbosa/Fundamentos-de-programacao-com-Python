@@ -1,3 +1,5 @@
+#8. Escreva um programa em Python que receba três valores reais X, Y e Z, guarde esses valores numa tupla e verifique se esses valores podem ser os comprimentos dos lados de um triângulo e, neste caso, retorne qual o tipo de triângulo formado.
+
 print('Nessa atividade vamos receber três valores reais (X, Y e Z) guardalos em uma tupla, verificar se os valores informados podem ser os comprimentos dos lados de um triângulo e se for o caso retornar qual o tipo de triângulo.')
 print()
 X=int(input('Insira o valor de X:'))

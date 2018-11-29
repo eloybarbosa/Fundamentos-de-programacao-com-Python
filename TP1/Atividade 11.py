@@ -1,3 +1,5 @@
+#11. Faça uma função no Python que, utilizando a ferramenta turtle, desenhe um triângulo de lado N.
+
 print('Nessa Atividade vamos desenhar com a ferramenta Turtle um triângulo equilátero de lado "N".')
 
 import turtle

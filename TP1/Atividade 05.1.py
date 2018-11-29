@@ -1,3 +1,5 @@
+#5.1. Dada uma tupla e um elemento, verifique se o elemento existe na tupla e retorne o índice do mesmo
+
 print('Nessa atividade vamos criar uma tupla inserindo quanto elemento desejarmos, a tupla e encerrada quando for digitada a palava "sair". ')
 print('Depois vamos perquisar por um dos elementos inseridos anteriormente e o programa vai nos retornar o indice do mesmo.')
 print()
@@ -8,8 +10,6 @@ while elemento != "sair":
     t+=(elemento,)
     elemento = input("Entre com o próximo elemento: ")
   
-
-#print(t)
 print()
 
 i=(input('Agora pesquise o elemento que deseja descobrir o indice.'))

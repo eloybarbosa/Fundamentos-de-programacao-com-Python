@@ -1,5 +1,8 @@
+#2. Faça uma função em Python que receba do usuário a idade de uma pessoa em anos, meses e dias e retorne essa idade expressa em dias. Considere que todos os anos têm 365 dias.
+
 print('Nessa atividade vamos descobrir quantos dias voce tem de vida (Considerando que todos os anos tem 365 dias e todos os meses tem 30 dias)')
 print()
+
 ano=int(input('Insira o ano do seu nascimento:'))
 mes=int(input('Insira o mes do seu nascimento:'))
 dia=int(input('Insira o dia do seu nascimento:'))

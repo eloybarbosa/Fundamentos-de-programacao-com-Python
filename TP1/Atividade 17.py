@@ -30,3 +30,4 @@ if tamanho_palavra >= 3:
         print('O Valor de N não pode ser maior ou igual ao número de caracteres da palavra escolhida, execute novamente.')
 else:
     print('Conforme solicitado a palavra tem que ter mais de 3 caracteres, execute novamente.')
+     

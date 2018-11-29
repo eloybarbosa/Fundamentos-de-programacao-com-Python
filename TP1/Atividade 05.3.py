@@ -1,4 +1,5 @@
-#05.1 Dada uma tupla e um elemento, elimine esse elemento da tupla.
+#5.3 Dada uma tupla e um elemento, elimine esse elemento da tupla.
+
 print('Nessa atividade vamos criar uma tupla inserindo quanto elemento desejarmos, a tupla e encerrada quando for digitada a palava "sair". ')
 print('Depois vamos indicar um dos elementos da tupla para ser "eliminado"')
 print()
@@ -39,8 +40,6 @@ elif r == qq:
        
 elif r == r:
     t1=(t[:r]+t[-(-r+qq):])
-
-
     
 print(t1)
 

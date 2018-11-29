@@ -1,10 +1,11 @@
-##Nessa atividade vamos desenhar um quadrado dentro do outro
+#13. Usando a função obtida na questão 10, desenhe n quadrados um dentro de outro como mostrado na figura:
 
 import turtle
 
 turtle.title('Quadrado dentro de quadrado')
 turtle.shape('turtle')
 turtle.speed('fastest')
+
 for c in range(4):
 	turtle.forward(200)
 	turtle.left(90)

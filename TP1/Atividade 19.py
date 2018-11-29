@@ -1,4 +1,4 @@
-#20. Baseando no código criado na questão anterior, crie uma função na qual dado um N obtido através do usuário, sua tartaruga gire 90 + N graus. Teste para 1, 4 e 10 para obter as figuras a seguir
+#19. Dado um valor N do usuário, desenhe com a ferramenta turtle a seguinte imagem
 
 import turtle
 

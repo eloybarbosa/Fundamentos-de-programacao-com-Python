@@ -1,4 +1,4 @@
-#Dada uma tupla, retorne uma nova tupla com todos os elementos invertidos.
+#5.4. Dada uma tupla, retorne uma nova tupla com todos os elementos invertidos.
 
 print('Nessa atividade vamos criar uma tupla inserindo quanto elemento desejarmos, a tupla e encerrada quando for digitada a palava "sair". ')
 print('Depois vamos mostrar a tupla original e uma nova tupla com todos os elementos invertidos ')

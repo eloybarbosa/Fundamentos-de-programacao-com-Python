@@ -1,3 +1,5 @@
+#16. Altere o código da questão 15 para adicionar em outra região um novo polígono à sua escolha.
+
 import turtle
 def geraPontos(i):
 # """ Gera pontos para quadrados de qualquer tamanho """
@@ -39,7 +41,7 @@ def teste():
    desenhaPoligono((100, -100), triangulo, corLinha="green")
    
    # Retangulo
-   retangulo = [(300, 0), (300, 150), (0, 150), (0, 0)] #geraPontos(200) #[(x, y), (0, 150), (150, 300), (0, 0)]
+   retangulo = [(300, 0), (300, 150), (0, 150), (0, 0)]
    desenhaPoligono((-300, -100), retangulo, corRecheio="green") # ( (x(horizontal, y(vertical)), (chama o objeto))
    
 

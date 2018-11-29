@@ -1,3 +1,5 @@
+#4. Escreva um programa em Python que calcule o fatorial de um dado número N usando um while. Use as mesmas especificações do item anterior.
+
 print('Nessa atividade vamos calcular seu Fatorial de N utilizando o comando While')
 n=int(input('Digite o número que deseja calcular seu Fatorial:'))
 

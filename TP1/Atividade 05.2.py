@@ -1,3 +1,5 @@
+#5.2. Dada uma tupla, retorne 2 tuplas onde cada uma representa uma metade da tupla original.
+
 print('Nessa atividade vamos criar uma tupla inserindo quanto elemento desejarmos, a tupla e encerrada quando for digitada a palava "sair". ')
 print('Depois o programa vai nos retornar 2 tuplas onde cada uma representa uma metade da tupla original. ')
 print()

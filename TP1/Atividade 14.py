@@ -1,5 +1,7 @@
+#14. Utilizando o código 10.1 da Etapa 2, onde utilizando a função onkey do turtle associamos valores às setas do teclado, para este exercício associe as funções obtidas nas questões 10, 11 e 12 às teclas ‘q’, ‘t’ e ‘c’ respectivamente
+
 import turtle
-turtle.title("Desenhando Quadrado, Triângulo e Circulo utilizando 'Onkey' Teclas: cima, baixo, esquerda, direita, q, t ,c")
+turtle.title("Desenhando Quadrado, Triângulo e Circulo com 'Onkey' Teclas: cima, baixo, esquerda, direita, q, t ,c")
 
 def cima():
     turtle.penup()
