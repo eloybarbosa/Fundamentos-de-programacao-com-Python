@@ -63,7 +63,11 @@ lista_limpa=[]
 for i in range (tam_generos):
     del(generos[i][10:])
 
+dic={}
 
+for i in range (tam_generos):
+    dic=dict[generos[i][4]] = generos[i][10]
+    
 
 ##
 ####dic = []

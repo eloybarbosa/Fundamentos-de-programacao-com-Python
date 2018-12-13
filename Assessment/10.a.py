@@ -117,6 +117,6 @@ for i in range (0, tam_esportes):
     if esportes [i][4] == 'DEN':
         den += 1
         
-print(f'\nO maior medalhista de Ouro, considerando apenas as modalidades citadas é a Noruega com {nor} medalhas.')
+print(f'\nO maior medalhista de Ouro, considerando apenas as modalidades citadas é a Noruega com {nor} medalhas de ouro.')
 print(f'\nJá o segundo colocado foi a Suécia com {swe} medalhas de ouro.' )
 print(f'\nNo arquivo de consulta que nos foi passado não havia registros da Dinamarca.')
